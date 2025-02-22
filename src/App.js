@@ -33,7 +33,7 @@ const App = () => {
   return (
     <Context.Provider value={{"ctData":ctData,"setCtData":setCtData}}>
     {showPopup && <Popup setFlag={setFlag} setShowPopup={setShowPopup}/>}
-    <BrowserRouter>
+    <BrowserRouter basename='"/TODO-fend"'>
         <Nav setShowSideBar={setShowSideBar}/>
         {showSideBar && <SideBar />}
         <main>
