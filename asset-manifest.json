@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TODO/fend/static/css/main.2129d752.css",
+    "main.js": "/TODO/fend/static/js/main.cbcbbe14.js",
+    "static/js/453.3ed722cc.chunk.js": "/TODO/fend/static/js/453.3ed722cc.chunk.js",
+    "index.html": "/TODO/fend/index.html",
+    "main.2129d752.css.map": "/TODO/fend/static/css/main.2129d752.css.map",
+    "main.cbcbbe14.js.map": "/TODO/fend/static/js/main.cbcbbe14.js.map",
+    "453.3ed722cc.chunk.js.map": "/TODO/fend/static/js/453.3ed722cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2129d752.css",
+    "static/js/main.cbcbbe14.js"
+  ]
+}
